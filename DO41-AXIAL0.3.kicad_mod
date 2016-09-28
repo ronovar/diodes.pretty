@@ -23,8 +23,8 @@
   (pad 2 thru_hole circle (at -3.81 0) (size 2.2606 2.2606) (drill 0.8128) (layers B.Cu B.Mask))
   (pad 1 thru_hole circle (at 3.81 0) (size 2.2606 2.2606) (drill 0.8128) (layers B.Cu B.Mask))
   (model diodes.3dshapes/DO41-AXIAL0.3.wrl
-    (at (xyz 0 0 0.051666))
+    (at (xyz 0 0 0))
     (scale (xyz 0.393700 0.393700 0.393700))
-    (rotate (xyz -90.000000 0 0))
+    (rotate (xyz 0 0 180.000000))
   )
 )
